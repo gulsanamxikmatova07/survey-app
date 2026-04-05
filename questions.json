@@ -1,0 +1,185 @@
+{
+  "title": "Academic Planning and Mental Clarity Survey",
+  "questions": [
+    {
+      "question": "How clearly do you plan your academic tasks before starting your day?",
+      "options": {
+        "Very clearly": 0,
+        "Clearly": 1,
+        "Somewhat clearly": 2,
+        "Poorly": 3,
+        "Not clearly at all": 4
+      }
+    },
+    {
+      "question": "How confident are you about what you need to study each week?",
+      "options": {
+        "Very confident": 0,
+        "Confident": 1,
+        "Somewhat confident": 2,
+        "Uncertain": 3,
+        "Very uncertain": 4
+      }
+    },
+    {
+      "question": "How often do you create a study schedule or task list?",
+      "options": {
+        "Always": 0,
+        "Often": 1,
+        "Sometimes": 2,
+        "Rarely": 3,
+        "Never": 4
+      }
+    },
+    {
+      "question": "How often do distractions interrupt your concentration while studying?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How easily can you return to studying after taking a short break?",
+      "options": {
+        "Very easily": 0,
+        "Easily": 1,
+        "Sometimes easily": 2,
+        "With difficulty": 3,
+        "Very difficultly": 4
+      }
+    },
+    {
+      "question": "How often do you switch between tasks without finishing them?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How well organized are your study materials such as notes, files, and folders?",
+      "options": {
+        "Very well organized": 0,
+        "Well organized": 1,
+        "Moderately organized": 2,
+        "Poorly organized": 3,
+        "Very poorly organized": 4
+      }
+    },
+    {
+      "question": "How easy is it for you to find the information you need while studying?",
+      "options": {
+        "Very easy": 0,
+        "Easy": 1,
+        "Sometimes easy": 2,
+        "Difficult": 3,
+        "Very difficult": 4
+      }
+    },
+    {
+      "question": "How often do you forget where you saved important academic files?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How often do academic responsibilities make you feel mentally tired?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How often do you feel overwhelmed by the number of tasks you have?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How often do you worry about unfinished academic work?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How often do you complete academic tasks on time?",
+      "options": {
+        "Always": 0,
+        "Often": 1,
+        "Sometimes": 2,
+        "Rarely": 3,
+        "Never": 4
+      }
+    },
+    {
+      "question": "How often do you postpone important study tasks until later?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How easy is it for you to prioritize your academic responsibilities?",
+      "options": {
+        "Very easy": 0,
+        "Easy": 1,
+        "Sometimes easy": 2,
+        "Difficult": 3,
+        "Very difficult": 4
+      }
+    },
+    {
+      "question": "How clear is your mind when working on academic tasks?",
+      "options": {
+        "Very clear": 0,
+        "Clear": 1,
+        "Moderately clear": 2,
+        "Unclear": 3,
+        "Very unclear": 4
+      }
+    },
+    {
+      "question": "How often do you feel confused about what to do first in your studies?",
+      "options": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "How satisfied are you with your academic productivity at the end of the day?",
+      "options": {
+        "Very satisfied": 0,
+        "Satisfied": 1,
+        "Somewhat satisfied": 2,
+        "Dissatisfied": 3,
+        "Very dissatisfied": 4
+      }
+    }
+  ]
+}
